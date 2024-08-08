@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ODM Sample UI</string>
+    <string name="logo_name">OkBOZ</string>
+    <string name="person_name">Person</string>
+    <string name="enter_your_mobile_number_to_get_OTP">Enter your mobile number to get OTP</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="privacy_policy">By clicking, I accept the terms of service and privacy policy</string>
+    <string name="streamline">Streamline your life with Delivery Partner  with seamless and hassle-free</string>
+    <string name="transport">Our Transport Partner provides access to a network of transportation services</string>
+
+
+</resources>
